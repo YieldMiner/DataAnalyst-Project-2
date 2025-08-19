@@ -1,3 +1,4 @@
+#SQL OPERATIONS PERFORMED, MADE INTO VIEWS THEN PORTED INTO POWERBI TO BE UTILIZED FOR DATA VISUALIZATIONS/CONCLUSIONS
 SELECT * FROM public.energymarkets
 
 CREATE VIEW value_opportunities AS
@@ -50,3 +51,4 @@ SELECT company, sector, peratio, ptbratio, beta,
        END as investment_style
 FROM energymarkets
 WHERE peratio IS NOT NULL;
+
