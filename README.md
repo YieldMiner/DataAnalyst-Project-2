@@ -19,7 +19,7 @@ Built a full data pipeline analyzing 19 energy sector companies: Python → Post
 
 ### Data Pipeline Architecture
 - **API Integration:** Alpha Vantage financial data via Python
-- **Data Processing:** Python → Excel → PostgreSQL workflow
+- **Data Processing:** Python > Excel > PostgreSQL workflow
 - **Database Management:** PostgreSQL with custom analytical views
 - **Visualization:** Multi-page PowerBI dashboard suite
 
@@ -41,6 +41,6 @@ Created comprehensive analytical framework for evaluating 19 energy companies ac
 
 ## Project Outcomes
 - **Database:** 5 optimized analytical views in PostgreSQL
-- **Dashboards:** Professional 5-page PowerBI report
+- **Dashboards:** 5-page PowerBI report
 - **Analysis:** Investment classifications for 19 energy companies
 - **Methodology:** Scalable framework for expanded sector analysis
