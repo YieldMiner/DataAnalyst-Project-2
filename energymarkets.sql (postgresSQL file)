@@ -52,3 +52,4 @@ SELECT company, sector, peratio, ptbratio, beta,
 FROM energymarkets
 WHERE peratio IS NOT NULL;
 
+
